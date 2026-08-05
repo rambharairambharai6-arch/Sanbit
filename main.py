@@ -1,7 +1,7 @@
 import telebot
 from telebot import types
 from config import BOT_TOKEN, AUTHORIZED_CHAT_IDS
-from checker  check_card_full, luhn_check
+from checker import check_card_full, luhn_check
 
 bot = telebot.TeleBot(8920602452:AAEYAp8YNPp_bs-SkK27ifM0zVUz9QMel2k)
 
